@@ -1,6 +1,6 @@
 # Let Them Cook
 
-#### Let them cook is created by students from Dalhousie University as part of the CSCI 5308 - Advanced Topics in Software Development (Fall 2023) course.
+#### Let them cook is created as part of the CSCI 5308 - Advanced Topics in Software Development (Fall 2023) course.
 
 ### Problem Statement:
 
@@ -283,22 +283,5 @@ These principles form the foundation upon which our code is built, ensuring both
 ## Conclusion
 
 This provides the steps a Customer and Cook will follow on the Let them Cook service, ensuring a clear path from sign-up to placing order or delivering order.
-
-## Credits
-
-### Development team:
-
-1. Nikunj Lalitkumar Hudka (B00959783)
-2. Yash Khorja (B00957065)
-3. Parth Rajendra Kharkhanis (B00959176)
-4. Sanjana Rampur Kottur (B00957180)
-
-### Client team:
-
-1. Aniket Mhatre (B00969798)
-2. Prithvi Manoj Krishna (B00961642)
-3. Rabia Asif (B00931734)
-4. Vivek Alpeshbhai Sonani (B00953064)
-5. Smit Patel (B00963945)
 
 Course Instructor: [Dr. Tushar Sharma](https://tusharma.in)
